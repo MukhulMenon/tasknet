@@ -14,6 +14,10 @@ pnpm dev
 bun dev
 ```
 
+##replace with your keys as shown below
+![image](https://github.com/user-attachments/assets/a5062ef2-1551-4044-b639-96406d7f95ac)
+
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
