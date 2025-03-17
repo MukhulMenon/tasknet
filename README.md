@@ -14,7 +14,7 @@ pnpm dev
 bun dev
 ```
 
-##replace with your keys as shown below <br>
+## Replace with your keys as shown below <br>
 ![image](https://github.com/user-attachments/assets/a5062ef2-1551-4044-b639-96406d7f95ac)
 
 
